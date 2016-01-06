@@ -1,7 +1,20 @@
-.column {
+#column {
   width: 300px;
   float: left;
   margin: 20px;
+  padding: 10px;
+}
+
+.column1 {
+  background-color: crimson;
+}
+
+.column2 {
+  background-color: red;
+}
+
+.column3 {
+  background-color: tomato;
 }
 
 img {
